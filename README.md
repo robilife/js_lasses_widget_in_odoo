@@ -1,0 +1,1 @@
+# js_lasses_widget_in_odoo
